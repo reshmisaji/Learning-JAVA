@@ -12,7 +12,7 @@ public class toMilesPerHour {
         if (isGreaterThanZero(kilometersPerHour)) {
             return -1;
         }
-        long milesPerHour = Math.round(kilometersPerHour * 1.609);
+        long milesPerHour = Math.round(kilometersPerHour / 1.609);
         return milesPerHour;
     }
 
