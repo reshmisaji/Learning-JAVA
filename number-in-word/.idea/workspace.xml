@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63531760-bd7a-459c-8c6a-f0224094af91" name="Default Changelist" comment="">
+    <list default="true" id="b736d15b-455a-40fa-8314-3d9da37dadd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../decimal-comparator/src/com/java/learnings/DecimalComparator/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../decimal-comparator/src/com/java/learnings/DecimalComparator/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equality-printer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../equality-printer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leap-year-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap-year-calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playing-cat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playing-cat/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +18,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/learnings/equalityPrinter/IntEqualityPrinter.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/learnings/numberInWord/NumberInWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="536">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/learnings/equalityPrinter/IntEqualityPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/learnings/numberInWord/NumberInWord.java" />
       </list>
     </option>
   </component>
@@ -61,24 +63,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="equality-printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="equality-printer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="equality-printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="equality-printer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="number-in-word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="number-in-word" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,11 +98,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63531760-bd7a-459c-8c6a-f0224094af91" name="Default Changelist" comment="" />
-      <created>1551807538001</created>
+      <changelist id="b736d15b-455a-40fa-8314-3d9da37dadd4" name="Default Changelist" comment="" />
+      <created>1551808682562</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551807538001</updated>
+      <updated>1551808682562</updated>
     </task>
     <servers />
   </component>
@@ -141,13 +138,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/learnings/equalityPrinter/IntEqualityPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/learnings/numberInWord/NumberInWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="536">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
           </folding>
         </state>
       </provider>

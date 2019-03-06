@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a7605e5-b2bd-4703-be89-6052bf7077f0" name="Default Changelist" comment="" />
+    <list default="true" id="75f1f861-302e-44c8-b332-707d1b73a761" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decimal-comparator/src/com/java/learnings/DecimalComparator/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../decimal-comparator/src/com/java/learnings/DecimalComparator/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap-year-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap-year-calculator/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +16,14 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/learnings/leapYearCalculator/LeapYearCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/learnings/AreaCalculator/AreaCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,8 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeapYearCalculator.java" />
-        <option value="$PROJECT_DIR$/src/com/java/learnings/leapYearCalculator/LeapYearCalculator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/learnings/AreaCalculator/AreaCalculator.java" />
       </list>
     </option>
   </component>
@@ -52,26 +59,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="leap-year-calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leap-year-calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="area-calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="area-calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="area-calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="area-calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551774942176" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551805865535" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
   <component name="RunDashboard">
@@ -87,12 +96,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LeapYearCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.learnings.leapYearCalculator.LeapYearCalculator" />
-      <module name="leap-year-calculator" />
+    <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.learnings.AreaCalculator.AreaCalculator" />
+      <module name="area-calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.learnings.leapYearCalculator.*" />
+          <option name="PATTERN" value="com.java.learnings.AreaCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,7 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYearCalculator" />
+        <item itemvalue="Application.AreaCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -111,22 +120,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a7605e5-b2bd-4703-be89-6052bf7077f0" name="Default Changelist" comment="" />
-      <created>1551771300845</created>
+      <changelist id="75f1f861-302e-44c8-b332-707d1b73a761" name="Default Changelist" comment="" />
+      <created>1551790986082</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551771300845</updated>
+      <updated>1551790986082</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="42" width="1400" height="761" extended-state="0" />
@@ -149,7 +149,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884902" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
@@ -161,87 +161,16 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/learnings/leapYearCalculator/LeapYearCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/learnings/AreaCalculator/AreaCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leap-year-calculator</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

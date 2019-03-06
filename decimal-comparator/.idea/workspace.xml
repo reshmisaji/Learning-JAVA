@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a7605e5-b2bd-4703-be89-6052bf7077f0" name="Default Changelist" comment="" />
+    <list default="true" id="0002c613-906e-4ca4-bb1e-efead9109f05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/learnings/DecimalComparator/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/learnings/DecimalComparator/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equality-printer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../equality-printer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap-year-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap-year-calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number-of-days-in-month/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../number-of-days-in-month/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playing-cat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playing-cat/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/learnings/leapYearCalculator/LeapYearCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/learnings/DecimalComparator/DecimalComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="105">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -35,8 +42,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeapYearCalculator.java" />
-        <option value="$PROJECT_DIR$/src/com/java/learnings/leapYearCalculator/LeapYearCalculator.java" />
+        <option value="$PROJECT_DIR$/src/DecimalComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/learnings/DecimalComparator/DecimalComparator.java" />
       </list>
     </option>
   </component>
@@ -52,23 +59,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leap-year-calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leap-year-calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551774942176" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551842346010" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -87,12 +84,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LeapYearCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.learnings.leapYearCalculator.LeapYearCalculator" />
-      <module name="leap-year-calculator" />
+    <configuration name="DecimalComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.learnings.DecimalComparator.DecimalComparator" />
+      <module name="decimal-comparator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.learnings.leapYearCalculator.*" />
+          <option name="PATTERN" value="com.java.learnings.DecimalComparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,7 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYearCalculator" />
+        <item itemvalue="Application.DecimalComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -111,60 +108,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a7605e5-b2bd-4703-be89-6052bf7077f0" name="Default Changelist" comment="" />
-      <created>1551771300845</created>
+      <changelist id="0002c613-906e-4ca4-bb1e-efead9109f05" name="Default Changelist" comment="" />
+      <created>1551775034025</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551771300845</updated>
+      <updated>1551775034025</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="42" width="1400" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32884902" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884902" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32884902" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.32842416" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/learnings/leapYearCalculator/LeapYearCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/learnings/DecimalComparator/DecimalComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -220,7 +208,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>leap-year-calculator</last-edited>
+          <last-edited>decimal-comparator</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
